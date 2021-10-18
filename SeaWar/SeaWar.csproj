@@ -68,11 +68,11 @@
     <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
   </PropertyGroup>
   <PropertyGroup>
-    <SignManifests>true</SignManifests>
+    <SignManifests>false</SignManifests>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="SeaBattle">
-      <HintPath>..\..\SeaBattle\SeaBattle\bin\Debug\SeaBattle.dll</HintPath>
+      <HintPath>.\SeaBattle.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

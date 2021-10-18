@@ -1,0 +1,17 @@
+G:\git\SeaBattlePro\SeaWar\obj\Debug\SeaWar.csproj.AssemblyReference.cache
+G:\git\SeaBattlePro\SeaWar\obj\Debug\SeaWar_GameForm.Form1.resources
+G:\git\SeaBattlePro\SeaWar\obj\Debug\SeaWar_GameForm.Properties.Resources.resources
+G:\git\SeaBattlePro\SeaWar\obj\Debug\SeaWar.csproj.GenerateResource.cache
+G:\git\SeaBattlePro\SeaWar\bin\Debug\SeaWar_GameForm.exe.config
+G:\git\SeaBattlePro\SeaWar\bin\Debug\SeaWar_GameForm.exe.manifest
+G:\git\SeaBattlePro\SeaWar\bin\Debug\SeaWar_GameForm.application
+G:\git\SeaBattlePro\SeaWar\bin\Debug\SeaWar_GameForm.exe
+G:\git\SeaBattlePro\SeaWar\bin\Debug\SeaWar_GameForm.pdb
+G:\git\SeaBattlePro\SeaWar\bin\Debug\SeaBattle.dll
+G:\git\SeaBattlePro\SeaWar\obj\Debug\SeaWar.csproj.CoreCompileInputs.cache
+G:\git\SeaBattlePro\SeaWar\obj\Debug\SeaWar_GameForm.TrustInfo.xml
+G:\git\SeaBattlePro\SeaWar\obj\Debug\SeaWar_GameForm.exe.manifest
+G:\git\SeaBattlePro\SeaWar\obj\Debug\SeaWar_GameForm.application
+G:\git\SeaBattlePro\SeaWar\obj\Debug\SeaWar.csproj.CopyComplete
+G:\git\SeaBattlePro\SeaWar\obj\Debug\SeaWar_GameForm.exe
+G:\git\SeaBattlePro\SeaWar\obj\Debug\SeaWar_GameForm.pdb
